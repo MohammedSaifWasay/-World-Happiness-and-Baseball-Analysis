@@ -78,9 +78,6 @@ This project investigates two distinct datasets — the **World Happiness Report
 - Prediction results
 
 ---
-
----
-
 ## 🔮 Future Scope
 
 - Use more advanced models like Ridge/Lasso regression.
